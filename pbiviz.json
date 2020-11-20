@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "circleCard",
+        "displayName": "Circle Card",
+        "guid": "circleCard89E66706DE254F2DAAF9FEE11CF36972",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "Displays a formatted measure value inside a circle",
+        "supportUrl": "https://community.powerbi.com",
+        "gitHubUrl": "https://github.com/microsoft/PowerBI-visuals-circlecard"
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Hannah Reilly",
+        "email": "hannahreillyca@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
